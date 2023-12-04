@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=90)
 <br/>
+<br/>
 
 
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![상은's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=tokyonight&hide=java,python,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
+![SangEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=tokyonight&hide=java,python,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
 
 
 

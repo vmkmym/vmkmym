@@ -44,13 +44,15 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 
 
 
   ![SangEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=tokyonight&hide=java,python,html)  
+
+<br/>
+<br/>
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
 </div>

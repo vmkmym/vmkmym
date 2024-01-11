@@ -50,10 +50,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23ED8E33&title_bg=%2345A9DE&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-  ![SangEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=tokyonight&hide=java,python,html)  
-
-<br/>
-<br/>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
+![SangEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=tokyonight&hide=java,python,html) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
+--- | --- |
 </div>

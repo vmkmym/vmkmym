@@ -1,25 +1,20 @@
 ### Hi there 👋
 
-<!--
-**21dbwls12/21dbwls12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a project developing an app using generative AI.
+🌱 I’m currently learning iOS development while doing Android development. I'm also studying algorithms with Python and learning how to apply generative AI APIs in apps.
+📫 How to reach me: nuegnasmik0182@gmail.com
+⚡ Fun fact: I use GitHub, Discord, and read/write articles.
+  <br/><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=90">
   <br/><br/>
+
+
+  
 
 ### 🌷: Studying
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=flat&logo=Java&logoColor=white) 
@@ -31,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/FireBase-000000?style=flat&logo=FireBase&logoColor=#FFCA28"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=#000000"/>
+
 
 
 ### 🌷: Tools

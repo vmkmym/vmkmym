@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a project developing an app using generative AI.
-🌱 I’m currently learning iOS development while doing Android development. I'm also studying algorithms with Python and learning how to apply generative AI APIs in apps.
-📫 How to reach me: nuegnasmik0182@gmail.com
-⚡ Fun fact: I use GitHub, Discord, and read/write articles.
+
+- 🔭 I’m currently working on a project developing an app using generative AI.
+- 🌱 I’m currently learning iOS development while doing Android development. I'm also studying algorithms with Python and learning how to apply generative AI APIs in apps.
+- 📫 How to reach me: nuegnasmik0182@gmail.com
+- ⚡ Fun fact: I use GitHub, Discord, and read/write articles.
   <br/><br/>
 
 

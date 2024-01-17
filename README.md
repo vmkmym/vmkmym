@@ -1,5 +1,5 @@
 <div align="left">  
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=70">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=90">
   <br/><br/>
   
 ### Hi there 👋
@@ -10,6 +10,7 @@
 📫 How to reach me: nuegnasmik0182@gmail.com<br>
 ⚡ Fun fact: GitHub, Discord, and read/write articles.<br>
 </p>
+<br/><br/>
 
 
 ### 🌷: Studying
@@ -22,6 +23,7 @@
 <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat&logo=IntellijIDEA&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/FireBase-000000?style=flat&logo=FireBase&logoColor=#FFCA28"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=#000000"/>
+<br/><br/>
 
 ### 🌷: Tools
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -31,10 +33,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23ED8E33&title_bg=%2345A9DE&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 

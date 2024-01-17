@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 - 🔭 I’m currently working on a project developing an app using generative AI.
 - 🌱 I’m currently learning iOS development while doing Android development. I'm also studying algorithms with Python and learning how to apply generative AI APIs in apps.
@@ -11,6 +10,8 @@
   
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=90">
   <br/><br/>
+  
+### Hi there 👋
 
 
 

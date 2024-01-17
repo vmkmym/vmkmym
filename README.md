@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=90">
@@ -21,12 +17,12 @@
 
 ### 🌷: Studying
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=flat&logo=Java&logoColor=white) 
-<img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=#7F52FF"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=#0095D5"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=#3776AB"/>
 <br/>
 <img src="https://img.shields.io/badge/Android-000000?style=flat&logo=android&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose&logoColor=#4285F4"/> 
-<img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat&logo=IntellijIDEA&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/FireBase-000000?style=flat&logo=FireBase&logoColor=#FFCA28"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=#000000"/>
 

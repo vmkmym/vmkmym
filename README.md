@@ -7,11 +7,7 @@
 
 ### Hi there 👋
 <p>
-🔭 I’m currently working on a project developing an app using generative AI.<br>
-🌱 I’m currently learning iOS development while doing Android development.<br> 
-🐥 I'm also studying algorithms with Python and learning how to apply generative AI APIs in apps.<br>
 📫 How to reach me: nuegnasmik0182@gmail.com<br>
-⚡ Fun fact: GitHub, Discord, and read/write articles.<br>
 </p>
 <br/><br/>
 

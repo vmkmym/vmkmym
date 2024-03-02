@@ -4,10 +4,6 @@
   <br/><br/>
 
 
-
-
-  
-
 ### Hi there 👋
 <p>
 📫 How to reach me: nuegnasmik0182@gmail.com<br>

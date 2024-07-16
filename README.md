@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 <p>
-📫 How to reach me: nuegnasmik0182@gmail.com<br>
+📫 Email : hello.sangeun.kim@gmail.com<br>
 </p>
 <br/><br/>
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/FireBase-000000?style=flat&logo=FireBase&logoColor=#FFCA28"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=#000000"/>
 <br/><br/>
+<br/><br/>
 
 ### 🌷: Tools
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -33,9 +34,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23ED8E33&title_bg=%2345A9DE&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kotlin_t)](https://solved.ac/kotlin_t)
+<br/><br/>
+<br/><br/>
 
 
 <a href="https://github.com/vmkmym/github-readme-stats">

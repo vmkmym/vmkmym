@@ -11,7 +11,7 @@
 <br/><br/>
 
 
-### 🌷: Studying
+### 🌷: Tech Stacks
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=flat&logo=Java&logoColor=white) 
 <img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=#0095D5"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=#3776AB"/>

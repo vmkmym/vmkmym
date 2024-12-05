@@ -6,36 +6,46 @@
 
 ### Hi there 👋
 <p>
-📫 Email : hello.sangeun.kim@gmail.com<br>
+  📫 Email : hello.sangeun.kim@gmail.com<br>
 </p>
 <br/><br/>
 
-
 ### 🌷: Tech Stacks
-![Java](https://img.shields.io/badge/Java-000000.svg?&style=flat&logo=Java&logoColor=white) 
-<img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=#0095D5"/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=#3776AB"/>
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=#0095D5)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=#4285F4)
 <br/>
-<img src="https://img.shields.io/badge/Android-000000?style=flat&logo=android&logoColor=#3DDC84"/>
-<img src="https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose&logoColor=#4285F4"/> 
-<img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat&logo=IntellijIDEA&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/FireBase-000000?style=flat&logo=FireBase&logoColor=#FFCA28"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=#000000"/>
-<br/><br/>
+![Restful API](https://img.shields.io/badge/Restful%20API-000000?style=for-the-badge&logo=swagger&logoColor=#85EA2D)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=#85EA2D)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=#FF6C37)
+<br/>
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=#FFCA28)
+<br/>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=#3776AB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=#000000)
+<br/>
+![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=#F05138)
+![Swift UI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=Swift&logoColor=#F05138)
+<br/>
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br/><br/>
 
 ### 🌷: Tools
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84)
+![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=#000000)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 <br/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-<br/><br/>
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=#F24E1E)
+<br/>
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discourse](https://img.shields.io/badge/Discourse-000000?style=for-the-badge&logo=Discourse&logoColor=white)
+<br/>
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23ED8E33&title_bg=%2345A9DE&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23000000&title_bg=%23FFA321&icon=github.svg&icon_color=%23FFFFFF&title=Veiws&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kotlin_t)](https://solved.ac/kotlin_t)
 <br/><br/>

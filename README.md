@@ -3,13 +3,17 @@
 
   <br/><br/>
 
-
 ### Hi there 👋
 <p>
   📫 Email : hello.sangeun.kim@gmail.com<br>
 </p>
 <br/><br/>
 
+### 🌷: Blog Posts
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23000000&title_bg=%23FFA321&icon=github.svg&icon_color=%23FFFFFF&title=Veiws&edge_flat=true)](https://hits.seeyoufarm.com) <br/>
+[사이드 프로젝트 메이트립 회고](https://inblog.ai/code-with-me/dnd-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%94%EC%9D%B4%ED%8A%B8%EB%A6%BD-%ED%9A%8C%EA%B3%A0-37543?traffic_type=internal#15cff82149a780cc8dc9c7f9fb6c61cc)
+
+<br/><br/>
 ### 🌷: Tech Stacks
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=#0095D5)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=#4285F4)
@@ -45,12 +49,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23000000&title_bg=%23FFA321&icon=github.svg&icon_color=%23FFFFFF&title=Veiws&edge_flat=true)](https://hits.seeyoufarm.com)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kotlin_t)](https://solved.ac/kotlin_t)
 <br/><br/>
-<br/><br/>
-
 
 <a href="https://github.com/vmkmym/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />

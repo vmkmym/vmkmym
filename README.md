@@ -10,7 +10,8 @@
 <br/><br/>
 
 ### 🌷: Blog Posts
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvmkmym%2Fhit-counter&count_bg=%23000000&title_bg=%23FFA321&icon=github.svg&icon_color=%23FFFFFF&title=Veiws&edge_flat=true)](https://hits.seeyoufarm.com) <br/>
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fvmkmym?color=green&label=hits&size=small)](https://myhits.vercel.app)
+
 [사이드 프로젝트 메이트립 회고](https://inblog.ai/code-with-me/dnd-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%94%EC%9D%B4%ED%8A%B8%EB%A6%BD-%ED%9A%8C%EA%B3%A0-37543?traffic_type=internal#15cff82149a780cc8dc9c7f9fb6c61cc)
 
 <br/><br/>
